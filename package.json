@@ -1,0 +1,11 @@
+{
+  "name": "desafio1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prueba.js",
+  "scripts": {
+    "start": "node prueba.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
